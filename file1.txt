@@ -1,1 +1,2 @@
-new content in file1
+more content in file1
+new content in dev branch
